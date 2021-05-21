@@ -27,6 +27,11 @@ a {
   transition: all .5s ease;
 }
 
+.navbar .container a{
+  margin-right: auto;
+  margin-left: auto;
+}
+
 a:hover {
   color: rgb(197, 197, 54);
   text-decoration: none;
@@ -282,7 +287,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .section-t8 {
-    padding-top: 4rem;
+    padding-top: 1rem;
   }
 }
 
@@ -636,7 +641,7 @@ a:hover {
 {
   width: 11rem;
   height: 5rem;
-  margin-right: 4rem;
+ 
 
 }
 .navbar-default .nav-search {
@@ -1950,14 +1955,6 @@ a:hover {
   position: absolute;
 }
 
-.since-box .since-title span:after {
-  content: ' ';
-  width: 35px;
-  height: 2px;
-  background-color: #000000;
-  position: absolute;
-  bottom: -15px;
-}
 
 .since-box p {
   margin-bottom: 0;
@@ -1974,6 +1971,13 @@ a:hover {
   .since-box p {
     font-size: 1rem;
   }
+}
+
+.since-box hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1.5px solid #107181;
 }
 
 /*--------------------------------------------------------------
