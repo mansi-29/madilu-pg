@@ -11,6 +11,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #555555;
+  background: rgb(158, 214, 228);
 }
 
 h1,
@@ -2098,6 +2099,7 @@ a:hover {
   border:2px solid grey;
   padding:0 2% 0 1%;
   margin-bottom: 2%;
+  background: #fff;
 }
 
 
@@ -2573,7 +2575,7 @@ footer .credits {
   width: 48px;
   height: 48px;
   border-radius: 50px;
-  background: #cffdd4;
+  background: #fff;
   color: #4FCE5D;
   transition: all 0.4s;
   font-weight: 900;
