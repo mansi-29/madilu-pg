@@ -2573,13 +2573,13 @@ footer .credits {
   width: 48px;
   height: 48px;
   border-radius: 50px;
-  background: #4FCE5D;
-  color: #fff;
+  background: #cffdd4;
+  color: #4FCE5D;
   transition: all 0.4s;
   font-weight: 900;
 }
 
 #whatsapp-icon i:hover {
-  background: #127bc0;
+  background: #4FCE5D;
   color: #fff;
 }
