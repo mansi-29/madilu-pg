@@ -11,7 +11,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #555555;
-  background: rgb(158, 214, 228);
+  background: rgb(177, 229, 241);
 }
 
 h1,
@@ -2533,6 +2533,7 @@ footer .credits {
   height:260;
   width:100%;
   border:1px solid grey;
+  background: white;
 }
 
 
